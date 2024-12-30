@@ -16,7 +16,7 @@ function Home() {
             textAlign: "center",
           }}>
           <h1 style={{ fontSize: "2.5rem", margin: "0" }}>
-            Seu Escritório de Advocacia
+            Seu Escritório de Advocacia!
           </h1>
           <p style={{ fontSize: "1.2rem", margin: "10px 0 0" }}>
             Soluções jurídicas personalizadas para você
