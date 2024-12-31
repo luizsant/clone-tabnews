@@ -7,14 +7,16 @@ function Home() {
           backgroundColor: "#2c3e50",
           color: "#fff",
           padding: "20px 0",
-        }}>
+        }}
+      >
         <div
           style={{
             maxWidth: "1200px",
             margin: "0 auto",
             padding: "0 20px",
             textAlign: "center",
-          }}>
+          }}
+        >
           <h1 style={{ fontSize: "2.5rem", margin: "0" }}>
             Seu Escritório de Advocacia!
           </h1>
@@ -33,7 +35,8 @@ function Home() {
                 fontSize: "2rem",
                 color: "#34495e",
                 textAlign: "center",
-              }}>
+              }}
+            >
               Nossos Serviços
             </h2>
             <p
@@ -41,7 +44,8 @@ function Home() {
                 fontSize: "1rem",
                 color: "#7f8c8d",
                 textAlign: "center",
-              }}>
+              }}
+            >
               Especializados em direito civil, trabalhista e empresarial.
             </p>
 
@@ -52,7 +56,8 @@ function Home() {
                 gap: "20px",
                 marginTop: "30px",
                 justifyContent: "center",
-              }}>
+              }}
+            >
               <div
                 style={{
                   backgroundColor: "#fff",
@@ -61,7 +66,8 @@ function Home() {
                   padding: "20px",
                   width: "300px",
                   textAlign: "center",
-                }}>
+                }}
+              >
                 <h3 style={{ color: "#2c3e50" }}>Consultoria Jurídica</h3>
                 <p style={{ color: "#7f8c8d" }}>
                   Atendimento personalizado para seus casos mais delicados.
@@ -75,7 +81,8 @@ function Home() {
                   padding: "20px",
                   width: "300px",
                   textAlign: "center",
-                }}>
+                }}
+              >
                 <h3 style={{ color: "#2c3e50" }}>Defesa Trabalhista</h3>
                 <p style={{ color: "#7f8c8d" }}>
                   Especialistas na proteção dos seus direitos no ambiente de
@@ -90,7 +97,8 @@ function Home() {
                   padding: "20px",
                   width: "300px",
                   textAlign: "center",
-                }}>
+                }}
+              >
                 <h3 style={{ color: "#2c3e50" }}>Planejamento Empresarial</h3>
                 <p style={{ color: "#7f8c8d" }}>
                   Consultoria estratégica para o crescimento do seu negócio.
@@ -118,7 +126,8 @@ function Home() {
                 borderRadius: "5px",
                 textDecoration: "none",
                 fontSize: "1rem",
-              }}>
+              }}
+            >
               Agendar Consulta
             </a>
           </section>
@@ -132,7 +141,8 @@ function Home() {
           color: "#fff",
           padding: "20px 0",
           textAlign: "center",
-        }}>
+        }}
+      >
         <p style={{ margin: "0" }}>
           &copy; 2024 Seu Escritório de Advocacia. Todos os direitos reservados.
         </p>
